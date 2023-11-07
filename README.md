@@ -1,6 +1,6 @@
 # ChatBotSimple
 1.Demo
-![288952274_1045623179263947_3461870703047520153_n](https://github.com/MaiHai999/ChatBotSimple/assets/87633734/7256c7c0-0f71-4e63-b3ac-455d385fca9e)
+![288952274_1045623179263947_3461870703047520153_n](https://github.com/MaiHai999/ChatBotSimple/assets/87633734/cc00031a-f00f-4b23-98ce-2bd7659e47c9)
 
 this is a system to generation text 
 
