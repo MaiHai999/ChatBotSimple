@@ -1,6 +1,7 @@
 # ChatBotSimple
 1.Demo
-![288952274_1045623179263947_3461870703047520153_n](https://github.com/MaiHai999/ChatBotSimple/assets/87633734/cc00031a-f00f-4b23-98ce-2bd7659e47c9)
+
+<img width="854" alt="Ảnh màn hình 2023-11-07 lúc 20 59 59" src="https://github.com/MaiHai999/ChatBotSimple/assets/87633734/91dc2b56-0bab-450e-beae-28b6f16f9b87">
 
 this is a system to generation text 
 
